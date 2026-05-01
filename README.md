@@ -1,5 +1,7 @@
 # 🎨 Tailwind CSS for Rails: Design System
 
+[![ClawHub Skill](https://img.shields.io/badge/ClawHub-Skill-blue)](#) [![Agent Skill](https://img.shields.io/badge/Agent-Skill-blue)](#)
+
 **Consistent, Dark-Mode-Ready UI Components for Ruby on Rails ERB Views.**
 
 This documentation provides a standardized library of Tailwind CSS utility patterns and ERB implementation strategies. The goal is to maintain a unified design language across all Rails applications, ensuring that every component—from badges to complex tables—is responsive, accessible, and natively supports dark mode.
