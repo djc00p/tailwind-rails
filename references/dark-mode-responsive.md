@@ -57,25 +57,25 @@ if (localStorage.getItem('darkMode') === 'true') {
 Always pair light and dark mode colors. Use these standard patterns:
 
 **Text colors:**
-```
+```text
 Light: text-gray-900
 Dark:  dark:text-gray-100
 ```
 
 **Backgrounds:**
-```
+```text
 Light: bg-white
 Dark:  dark:bg-gray-950
 ```
 
 **Cards and containers:**
-```
+```text
 Light: bg-white border-gray-200
 Dark:  dark:bg-gray-900 dark:border-gray-800
 ```
 
 **Hover states:**
-```
+```text
 Light: hover:bg-gray-100
 Dark:  dark:hover:bg-gray-800
 ```

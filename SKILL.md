@@ -1,8 +1,10 @@
 ---
+
 name: tailwind-rails
 description: "Tailwind CSS component patterns for Ruby on Rails ERB views. Use when building UI components in Rails, creating shared partials, implementing dark mode, writing badge/button/card/table components, or setting up a consistent design system. Trigger phrases: tailwind rails, rails UI components, ERB tailwind, rails dark mode, tailwind badge, tailwind button rails, shared partials tailwind."
-metadata: {"clawdbot":{"emoji":"🎨","requires":{"bins":[]},"os":["linux","darwin","win32"]}}
+metadata: {"clawdbot":{"emoji":"\ud83c\udfa8","requires":{"bins":[]},"os":["linux","darwin","win32"],"version":"1.0.2"}}
 ---
+
 
 # Tailwind CSS for Rails
 
@@ -97,4 +99,3 @@ Light: `bg-{color}-100` + `text-{color}-800` | Dark: `dark:bg-{color}-900` + `da
 
 - `references/components.md` — Reusable badge, button, and card partials with usage examples.
 - `references/dark-mode-responsive.md` — Dark mode setup, responsive patterns, and animation utilities.
-
