@@ -1,6 +1,6 @@
 ## Description:
 
-Tailwind CSS component patterns for Ruby on Rails ERB views, including reusable partials, dark mode, responsive layouts, and common UI components.
+Tailwind CSS component patterns for Ruby on Rails ERB views, including reusable partials, dark mode, responsive layouts, and common UI components, plus accessibility guidance for the Tailwind hidden class vs the HTML hidden attribute, contrast measured against the real container background, focus indicator preservation, and accessible names for icon-only buttons.
 
 This skill is ready for commercial/non-commercial use.
 
